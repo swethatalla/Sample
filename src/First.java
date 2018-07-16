@@ -4,10 +4,7 @@ public class First {
 	{
 		System.out.println("Hello");
 		System.out.println("Hello2");
-<<<<<<< HEAD
 		System.out.println("Hello3");
-=======
 		System.out.println("Hello90");
->>>>>>> b1
 	}
 }
