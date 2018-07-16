@@ -5,6 +5,9 @@ public class First {
 		System.out.println("Hello");
 		System.out.println("Hello2");
 		System.out.println("Hello3");
+<<<<<<< HEAD
 		System.out.println("Hello90");
+=======
+>>>>>>> parent of 69ce526... Third branch
 	}
 }
